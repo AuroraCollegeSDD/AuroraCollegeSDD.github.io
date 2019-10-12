@@ -1,7 +1,8 @@
+---
 layout: page
 title: "TEST 2"
 permalink: /test2/
-
+---
 
 
 # another heading
