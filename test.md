@@ -1,5 +1,5 @@
 layout: page
 title: "TEST"
-permalink: https://github.com/AuroraCollegeSDD/AuroraCollegeSDD.github.io/test
+permalink: /test/
 
 # the heading
