@@ -1,15 +1,1 @@
 theme: jekyll-theme-architect
-lsi: false
-safe: true
-source: /AuroraCollegeSDD.github.io/
-markdown: kramdown
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter : false
