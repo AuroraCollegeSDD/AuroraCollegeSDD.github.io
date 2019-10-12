@@ -1,6 +1,7 @@
 ---
 title: "TEST 2"
 permalink: /test2/
+layout: page
 ---
 
 
